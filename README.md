@@ -1,1 +1,1 @@
-# Github-Repo-Widget
+# Github Repo Widget
